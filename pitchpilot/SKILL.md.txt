@@ -57,7 +57,7 @@ metadata:
 说明传音资源在该市场的适配性（终端触达、本地化内容、多场景触点、系统级组合触达、精准覆盖）。
 
 #### ## 5. Media Strategy / 媒介投放策略
-围绕传音资源提出媒介组合（Awareness, Consideration, Conversion, Retargeting）。
+围绕传音资源提出媒介组合（Awareness, Conversion, Retargeting）。
 **必须使用表格呈现：**
 
 | Funnel Stage | Recommended Transsion Resources | Ad Formats | Role in Campaign | Targeting Logic |
